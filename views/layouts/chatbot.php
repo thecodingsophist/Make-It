@@ -1,7 +1,17 @@
+<!DOCTYPE html>
 <html>
-<body>
-
-Hello World!
-
+<head>
+    <meta charset="utf-8">
+    <title> Make It Chatbot </title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+</head>
+<body style="background-color: orange;">
+    <div class="container">
+        {{{body}}}
+    </div>
+<p>
+    <h1> Hello Friend :D </h1>
+</p>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </body>
 </html>
